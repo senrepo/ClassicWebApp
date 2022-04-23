@@ -9,7 +9,8 @@
 <body>
     <form id="form1" runat="server">
         <div>
-         <asp:Label ID="lblASXMServiceStatus" runat="server" Text=""></asp:Label>
+         <asp:Label ID="lblASXMServiceStatus" runat="server" Text=""></asp:Label> <br />
+         <asp:Label ID="lblWCFServiceStatus" runat="server" Text=""></asp:Label>
         </div>
     </form>
 </body>
